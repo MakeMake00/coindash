@@ -1,0 +1,13 @@
+.app-container {
+  flex: 1 1 auto;
+  height: 100%;
+
+  .container-view {
+    height: 100%;
+    background: #fbfbfb;
+    border-left: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    border-top-left-radius: 0.5rem;
+    padding: 0.5rem;
+  }
+}

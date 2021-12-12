@@ -1,2 +1,12 @@
 @import "variables";
 @import "~bootstrap/scss/bootstrap";
+
+
+@import "containers/app";
+@import "containers/app-header";
+@import "containers/app-container";
+@import "containers/app-menu";
+
+body, html, #root {
+    height: 100%;
+}
