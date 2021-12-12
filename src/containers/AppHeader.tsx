@@ -14,7 +14,11 @@ export default function AppHeader() {
           <CoinsSearchBar />
         </Col>
         <Col md={3} className="text-end">
-          <a href="" rel="noopener" target="_blank">
+          <a
+            href="https://github.com/MakeMake00/coindash"
+            rel="noopener, noreferrer"
+            target="_blank"
+          >
             <FaGithub />
           </a>
         </Col>
